@@ -1,0 +1,137 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #fff; /* Background cad sidaad rabtay */
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  color: #222; /* qoraal madow nadiif ah */
+}
+
+.quiz-container {
+  background: #fff;
+  padding: 25px 35px;
+  max-width: 600px;
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  position: relative;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.status-bar {
+  display: flex;
+  justify-content: flex-end;
+  gap: 30px;
+  margin-bottom: 15px;
+  font-weight: 600;
+  font-size: 1.1em;
+  color: #555;
+}
+
+#question-text {
+  font-size: 1.3em;
+  margin-bottom: 25px;
+  min-height: 60px;
+  color: #111;
+}
+
+/* Layout badhamada 3 iyo 2 */
+#options {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 columns */
+  grid-auto-rows: 50px;
+  gap: 14px;
+  margin-bottom: 20px;
+}
+
+#options button:nth-child(4) {
+  grid-column-start: 1;
+}
+
+#options button:nth-child(5) {
+  grid-column-start: 2;
+}
+
+#options button {
+  font-size: 1.05em;
+  border: 2px solid #a0a0a0;
+  border-radius: 8px;
+  cursor: pointer;
+  background: #fefefe;
+  transition: background-color 0.25s ease, border-color 0.25s ease;
+  color: #444;
+  font-weight: 600;
+  box-shadow: 0 2px 6px rgb(0 0 0 / 0.07);
+}
+
+#options button:hover:not(:disabled) {
+  background-color: #e0f0ff;
+  border-color: #3399ff;
+  color: #236ab9;
+  box-shadow: 0 4px 10px rgb(51 153 255 / 0.3);
+}
+
+#options button.correct {
+  background-color: #d4f7d4;
+  border-color: #3fb53f;
+  color: #2b6e2b;
+  font-weight: 700;
+  box-shadow: 0 0 10px #3fb53faa;
+}
+
+#options button.wrong {
+  background-color: #fcdede;
+  border-color: #e05454;
+  color: #8b1a1a;
+  font-weight: 700;
+  box-shadow: 0 0 10px #e05454aa;
+}
+
+#feedback {
+  margin-top: 15px;
+  font-size: 1.15em;
+  font-weight: 700;
+  text-align: center;
+  min-height: 24px;
+}
+
+.hidden {
+  display: none;
+}
+/* Responsive for small screens/mobile */
+@media (max-width: 480px) {
+  .quiz-container {
+    padding: 15px 20px;
+    max-width: 100%;
+  }
+
+  #options {
+    grid-template-columns: repeat(2, 1fr); /* 2 badhan safkii halkii 3 */
+    grid-auto-rows: 50px;
+    gap: 12px;
+  }
+
+  #options button:nth-child(4),
+  #options button:nth-child(5) {
+    grid-column-start: auto; /* ka qaad xeerkii safafka */
+  }
+
+  h1 {
+    font-size: 1.5em;
+  }
+
+  #question-text {
+    font-size: 1.1em;
+    min-height: auto;
+  }
+
+  .status-bar {
+    font-size: 1em;
+    gap: 15px;
+  }
+}

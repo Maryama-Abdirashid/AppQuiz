@@ -1,0 +1,2002 @@
+[
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)?",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python?",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka?",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka?",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij?",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [6]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [7]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [8]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [9]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [10]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [11]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [12]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [13]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [14]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [15]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [16]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [17]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [18]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [19]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [20]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [21]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [22]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [23]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [24]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [25]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [26]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [27]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [28]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [29]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [30]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [31]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [32]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [33]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [34]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [35]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [36]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [37]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [38]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [39]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [40]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [41]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [42]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [43]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [44]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [45]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [46]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [47]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [48]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [49]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [50]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [51]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [52]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [53]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [54]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [55]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [56]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [57]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [58]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [59]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [60]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [61]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [62]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [63]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [64]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [65]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [66]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [67]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [68]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [69]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [70]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [71]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [72]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [73]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [74]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [75]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [76]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [77]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [78]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [79]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [80]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [81]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [82]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [83]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [84]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [85]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [86]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [87]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [88]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [89]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [90]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [91]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [92]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [93]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [94]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [95]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [96]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [97]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [98]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [99]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [100]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [101]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [102]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [103]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [104]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [105]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [106]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [107]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [108]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [109]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [110]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [111]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [112]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [113]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [114]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [115]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [116]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [117]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [118]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [119]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [120]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [121]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [122]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [123]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [124]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [125]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [126]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [127]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [128]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [129]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [130]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [131]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [132]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [133]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [134]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [135]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [136]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [137]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [138]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [139]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [140]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [141]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [142]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [143]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [144]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [145]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [146]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [147]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [148]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [149]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [150]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [151]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [152]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [153]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [154]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [155]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [156]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [157]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [158]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [159]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [160]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [161]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [162]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [163]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [164]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [165]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [166]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [167]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [168]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [169]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [170]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [171]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [172]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [173]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [174]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [175]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [176]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [177]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [178]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [179]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [180]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [181]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [182]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [183]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [184]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [185]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [186]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [187]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [188]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [189]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [190]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [191]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [192]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [193]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [194]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [195]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay natiijada koodhkan Python-ka: print(2 + 3)? [196]",
+    "options": [
+      "23",
+      "5",
+      "'2 + 3'",
+      "Error"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Waa maxay nooca xogta ee lagu kaydiyo qoraal Python? [197]",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ayaa ah loop Python-ka? [198]",
+    "options": [
+      "switch",
+      "loop",
+      "for",
+      "define"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Waa maxay keyword lagu abuuro function Python-ka? [199]",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Midkee ka mid ah waa luqad barnaamij? [200]",
+    "options": [
+      "HTML",
+      "CSS",
+      "Python",
+      "HTTP"
+    ],
+    "correct": 2
+  }
+]
